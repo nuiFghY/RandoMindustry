@@ -1,0 +1,13 @@
+name: "RandoMindustry"
+displayName: 随机子弹
+author: 飞雨
+
+java:true
+main: "example.RandoMindustry"
+minGameVersion: 150
+version: 0.0.2
+description: "v0.0.2
+
+	那天单位和炮台都喝醉了......
+"
+
