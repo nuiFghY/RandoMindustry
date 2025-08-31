@@ -1,23 +1,13 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
+name: "RandoMindustry"
+displayName: 随机子弹
+author: 飞雨
 
-#the internal name of your mod
-name: "example-java-mod"
-
-#your name
-author: "You"
-
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
-
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
-
-#the mod version
-version: 1.0
-
-#the minimum game build required to run this mod
+java:true
+main: "RandoMindustry.RandoMindustry"
 minGameVersion: 150
+version: 0.0.3
+description: "v0.0.3
 
-#this is a java mod
-java: true
+	那天晚上单位和炮台都喝醉了......
+"
+
